@@ -1,3 +1,46 @@
+## :)
+
+1. Download and unzip the dataset. -> "household_power_consumption.txt"
+2. Run:
+
+```
+bash plotall.sh
+```
+ or 
+
+```
+$R -f plotall.R
+```
+
+PS: If run plot*.R separately, uncomment 1st line:
+
+```
+source("datasource4plot.R")
+```
+
+## Plots:
+
+### Plot 1
+
+
+![plot1](plot1.png) 
+
+
+### Plot 2
+
+![plot2](plot2.png) 
+
+
+### Plot 3
+
+![plot3](plot3.png) 
+
+
+### Plot 4
+
+![plot4](plot4.png) 
+
+
 ## Introduction
 
 This assignment uses data from
