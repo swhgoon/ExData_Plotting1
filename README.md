@@ -1,5 +1,6 @@
 ## :)
 
+0. Download and unzip the release.
 1. Download and unzip the dataset. -> "household_power_consumption.txt"
 2. Run:
 
